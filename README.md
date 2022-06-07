@@ -1,3 +1,6 @@
 Powerscript - Delete a Literal Path - Windows
 
-USAGE:  remLiteral.ps1 <directory to delete>
+For when folders and files just won't delete!
+
+PS Usage:       remLiteral.ps1 <directory to delete>
+Python Usage:   python reliteral.py <path-to-folder-or-file>
